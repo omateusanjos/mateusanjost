@@ -17,9 +17,7 @@
 
 - Currently, I work with VTEX IO, ReactJS, Typescript, NodeJS, GraphQL, PWA, Docker and FHIR R4
 
-- :mailbox: mateusanjosmgb@gmail.com
-
-### Github Stats 🛠 &nbsp;
+:mailbox: mateusanjosmgb@gmail.com
 
 <p align="left">
   <a href="https://github.com/clsjunnior">
