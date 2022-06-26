@@ -8,7 +8,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-PWA-333333?style=flat&logo=pwa)&nbsp;
-# Mateus Anjos
 
 Techlead and Staff Software Engineer
 
