@@ -24,8 +24,6 @@ Techlead and Staff Software Engineer
 [Portfolio](https://mateusanjos.notion.site/Mateus-Anjos-70ae2681c48f4e13b4ca5b42dc9ef96a)
 [Experiências](https://www.notion.so/1109411037c0472486dc2fb02bf68ec8)
 
-![1655650793386.jpeg](Mateus%20Anjos%20d716787239ca4c719d9c63523ea1feef/1655650793386.jpeg)
-
 ### Links
 
 [Mateus Anjos - Senior Software Engineer - Iteris & Briteris | LinkedIn](https://www.linkedin.com/in/mateus-anjos/?locale=en_US)
