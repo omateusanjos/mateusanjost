@@ -8,21 +8,41 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-PWA-333333?style=flat&logo=pwa)&nbsp;
+# Mateus Anjos
 
-### Desenvolvedor Full-Stack​ :rocket:
-- Working with development for seven years.
-- Acting as TechLead;
-- VTEX serviced e-commerces | VTEX IO: Nissan, Azaleia, Olympikus, Mizuno, Underarmour, Projeto Verão, NKStore, Ricardo Almeida, Aramis, Calzedonia and currently for Whirlpool stores: Brastemp, Consul and Compracerta.
-- I composed hybrid apps, made with Flutter.
+Techlead and Staff Software Engineer
 
-- Currently, I work with VTEX IO, ReactJS, Typescript, NodeJS, GraphQL, PWA, Docker and FHIR R4
+```json
+{
+  "Years of experience": "About seven and a half years",
+  "Hobbies": "Musician and video game player",
+  "BS": "Computer Science",
+  "Technical course": "Computer Technician",
+  "Certifications": "VTEX: IO DEVELOPER AND VTEX IMPLEMENTATION EXPERT"
+}
+```
 
-:mailbox: mateusanjosmgb@gmail.com
+[Portfolio](https://mateusanjos.notion.site/Mateus-Anjos-70ae2681c48f4e13b4ca5b42dc9ef96a)
+[Experiências](https://www.notion.so/1109411037c0472486dc2fb02bf68ec8)
+
+![1655650793386.jpeg](Mateus%20Anjos%20d716787239ca4c719d9c63523ea1feef/1655650793386.jpeg)
+
+### Links
+
+[Mateus Anjos - Senior Software Engineer - Iteris & Briteris | LinkedIn](https://www.linkedin.com/in/mateus-anjos/?locale=en_US)
+
+[omateusanjos - Overview](https://github.com/omateusanjos)
+
+### Languages
+
+1. English √ (advanced)
+2. Portuguese √ (native)
+
 
 <p align="left">
   <a href="https://github.com/clsjunnior">
-   <img height="150em" alt="Mateus Anjos - Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mateusanjost&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues,contribs" />
+   <img height="150em" alt="Mateus Anjos - Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omateusanjos&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues,contribs" />
 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusanjost&&layout=compact&theme=react" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omateusanjos&&layout=compact&theme=react" />
    </a>
  </p>
