@@ -7,8 +7,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-PWA-333333?style=flat&logo=pwa)&nbsp;
-
+[![WHOAMI]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white](https://img.shields.io/badge/-WHOAMI-000000?style=flat&logo=notion)&link=[https://www.linkedin.com/in/mateus-anjos/](https://mateusanjos.notion.site/Mateus-Anjos-70ae2681c48f4e13b4ca5b42dc9ef96a))]([https://www.linkedin.com/in/mateus-anjos/](https://mateusanjos.notion.site/Mateus-Anjos-70ae2681c48f4e13b4ca5b42dc9ef96a))
 Techlead and Staff Software Engineer
 
 ```json
@@ -20,15 +19,6 @@ Techlead and Staff Software Engineer
   "Certifications": "VTEX: IO DEVELOPER AND VTEX IMPLEMENTATION EXPERT"
 }
 ```
-
-[Portfolio](https://mateusanjos.notion.site/Mateus-Anjos-70ae2681c48f4e13b4ca5b42dc9ef96a)
-[Experiências](https://www.notion.so/1109411037c0472486dc2fb02bf68ec8)
-
-### Links
-
-[Mateus Anjos - Senior Software Engineer - Iteris & Briteris | LinkedIn](https://www.linkedin.com/in/mateus-anjos/?locale=en_US)
-
-[omateusanjos - Overview](https://github.com/omateusanjos)
 
 ### Languages
 
